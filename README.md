@@ -20,7 +20,7 @@ Here is a list of questions to start:
 
 ## Companies
 
-> TODO: parse old indiehacker notes here
+- [ConvertKit](companies/convertkit.md)
 
 ## References
 - [The Indie Hackers Podcast](https://www.indiehackers.com/podcast)
