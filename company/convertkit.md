@@ -9,14 +9,12 @@
 ### What is the business model?
 - Subscription.
 
-### How did the founder come up with their idea? What was the context and
-  background?
+### How did the founder come up with their idea? What was the context and background?
 - Used to design and write books on iOS and web app.
 - Was expert on email marketing.
 - Had built his personal audience throughout the year.
 
-### How did they find the right problems to work on? How did they get their 
-  first paying customers?
+### How did they find the right problems to work on? How did they get their first paying customers?
 - One day blogged about starting a SaaS company but had no idea to work on.
   Just basically set a public goal to hold accountability. Had ideas to
   interview businesses and identify their problems. But then decided to stay
