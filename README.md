@@ -5,7 +5,8 @@ Early days of profitable businesses.
 ## Motivation
 
 I am interested in starting a company in the near future. I think the best way
-to learn how to do so is to look at the early days of profitable businesses, not when they're already successful so that one can see how the founders
+to learn how to do so is to look at the early days of profitable businesses,
+not when they're already successful so that one can see how the founders
 actually got started.
 
 Here is a list of questions to start:
@@ -17,12 +18,15 @@ Here is a list of questions to start:
 - How did they achieve product/market fit?
 - How did they get their first paying customers?
 
+[Here is the summary of this finding.](company/summary.md)
+
 ## Companies
 
 - [ConvertKit](company/convertkit.md)
 - [Scalable Press](company/scalable_press.md)
 
 ## References
+
 - [The Indie Hackers Podcast](https://www.indiehackers.com/podcast)
 - [The Cloud 100](https://www.forbes.com/cloud100/#1cb317495f94)
 - [Breakout List](https://breakoutlist.com/)
