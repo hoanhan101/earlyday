@@ -26,6 +26,7 @@ The Indie Hackers Podcast:
 - [ConvertKit](company/convertkit.md)
 - [Scalable Press](company/scalable_press.md)
 - [Grasshopper](company/grasshopper.md)
+- [Sifter](company/sifter.md)
 
 ## References
 
