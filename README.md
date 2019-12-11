@@ -18,15 +18,16 @@ Here is a list of questions to start:
 - How did they achieve product/market fit?
 - How did they get their first paying customers?
 
-[Here is the summary of this finding.](company/summary.md)
+[Here is the summary.](company/summary.md)
 
-## Companies
+## Table of Contents
 
-The Indie Hackers Podcast:
-- [ConvertKit](company/convertkit.md)
-- [Scalable Press](company/scalable_press.md)
-- [Grasshopper](company/grasshopper.md)
-- [Sifter](company/sifter.md)
+Company | About | Founder(s)
+--- | --- | ---
+[ConvertKit](company/convertkit.md) | Email marketing tool for bloggers and content creators | Nathan Barry
+[Scalable Press](company/scalable_press.md) | Efficient custom printing on demand | Eric Zhang
+[Grasshopper](company/grasshopper.md) | Virtual phone system | David Hauser
+[Sifter](company/sifter.md) | Bug tracker for small teams | Garrett Dimon
 
 ## References
 
