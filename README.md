@@ -29,6 +29,7 @@ Company | About | Founder(s)
 [Grasshopper](company/grasshopper.md) | Virtual phone system | David Hauser
 [Sifter](company/sifter.md) | Bug tracker for small teams | Garrett Dimon
 [Baremetrics](company/baremetrics.md) | Analytics of revenue for subscription company | Josh Pigford
+[Ghost](company/ghost.md) | Open-source non-profit publishing company | John Onolan
 
 ## References
 
