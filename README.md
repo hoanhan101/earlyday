@@ -13,7 +13,7 @@ Here is a list of questions to start:
 - What is the product?
 - What is its current revenue (monthly, yearly)?
 - What is the business model?
-- How did the founder come up with their idea? What was the context and background?
+- How did the founder come up with their idea? What was the context?
 - How did they find the right problems to work on?
 - How did they achieve product/market fit?
 - How did they get their first paying customers?
