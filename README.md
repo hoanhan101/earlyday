@@ -28,6 +28,7 @@ Company | About | Founder(s)
 [Scalable Press](company/scalable_press.md) | Efficient custom printing on demand | Eric Zhang
 [Grasshopper](company/grasshopper.md) | Virtual phone system | David Hauser
 [Sifter](company/sifter.md) | Bug tracker for small teams | Garrett Dimon
+[Baremetrics](company/baremetrics.md) | Analytics of revenue for subscription company | Josh Pigford
 
 ## References
 
