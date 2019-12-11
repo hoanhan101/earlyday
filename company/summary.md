@@ -10,4 +10,4 @@
 - Blog to share your progress. Provide quality contents. Educate them.
   This is a good content marketing strategy.
 - Utilize social media to promote your products and get feedbacks.
-- Grow your personal audience.
+- Grow your personal audience over time.
