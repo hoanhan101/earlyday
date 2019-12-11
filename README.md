@@ -23,7 +23,7 @@ Here is a list of questions to start:
 ## Table of Contents
 
 Company | What they make | Founder(s)
---- | --- | ---
+:--- | :--- | :---
 [ConvertKit](company/convertkit.md) | Email marketing tool for bloggers and content creators | Nathan Barry
 [Scalable Press](company/scalable_press.md) | Efficient custom printing on demand | Eric Zhang
 [Grasshopper](company/grasshopper.md) | Virtual phone system | David Hauser
