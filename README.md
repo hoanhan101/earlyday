@@ -1,6 +1,6 @@
-# earlyday
+# earlydays
 
-Early days of profitable businesses.
+Early days of profitable internet businesses.
 
 ## Motivation
 
