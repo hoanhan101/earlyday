@@ -22,8 +22,10 @@ Here is a list of questions to start:
 
 ## Companies
 
+The Indie Hackers Podcast:
 - [ConvertKit](company/convertkit.md)
 - [Scalable Press](company/scalable_press.md)
+- [Grasshopper](company/grasshopper.md)
 
 ## References
 
