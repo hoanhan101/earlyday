@@ -5,8 +5,7 @@ Early days of profitable businesses.
 ## Motivation
 
 I am interested in starting a company in the near future. I think the best way
-to learn how to do so is to look at the early days of profitable businesses,
-not when they're already successful so that one can see how the founders
+to learn how to do so is to look at the early days of profitable businesses, not when they're already successful so that one can see how the founders
 actually got started.
 
 Here is a list of questions to start:
